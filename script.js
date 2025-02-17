@@ -96,5 +96,5 @@ class PatientApp {
 }
 
 // Initialize the app
-const api = new API('https://hammerhead-app-2-audps.ondigitalocean.app/');
+const api = new API('hammerhead-app-2-audps.ondigitalocean.app');
 const patientApp = new PatientApp(api);
