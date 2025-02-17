@@ -1,3 +1,5 @@
+// I acknowledge that I used the assistance of ChatGPT for explanations, code generations, and comments for when I was having difficulties with this assignment.
+
 class API {
     constructor(baseUrl) {
         this.baseUrl = baseUrl;
